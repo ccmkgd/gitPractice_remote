@@ -1,1 +1,3 @@
-Initial line of Chapter3.txt file
+Initial line of Chapter3.txt file.
+These are changes made by codingquest.
+Some more changes made by codingquest.
